@@ -1,6 +1,7 @@
-# [Week 2 prac 2]
+# [Week 2 prac 01]
 # [Learning Activities]
-
+# This week I set up a basic static website using html code and uploaded to SiteGround, a website hosting server, to host the website to allow others to view.
+# This website is to help with assignment 1 as we are creating a startup business website.
 # [Resources/Links]
 # Week 2 lecture slides
 # [Estimated Hours]
