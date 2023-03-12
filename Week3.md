@@ -3,6 +3,7 @@
 # Create a website on joomla using siteground as hosting. Using content from previous prac to create a website with themed layouts and customised menus to look like a reputable website. Also created links between each page of the website to make sure the website is fully functional
 # [Resources/Links]
 # Week 3 lecture slides
+# https://www.youtube.com/watch?v=h5VZwTLdgdM - used to learn how to use joomla 4
 # [Estimated Hours]
 # 2-3hrs
 # [Content Insights]
