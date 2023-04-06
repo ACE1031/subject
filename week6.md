@@ -2,12 +2,13 @@
 
 # [Learning Activities]
 
+# This week in the practicals i had to create a child theme and make style changes to a website through css style code and save these changes in a child theme file so anyone can download and use my child theme.
+# i used the inspector element on the google chrome web browser on my chosen website to edit and make changes to text colour, padding, background colour, and font size in different element sections on the website. once i made a change that i was happy with (i made bold and large changes that i probably woultnt keep, just for the purpose to see exactly which element i changed), and was clearly noticable which part of the site i was editing, i copied this change and added it into my css file in my child theme folder.
 
 # [Resources/Links]
 
 # WordPress child themes lecture slides
-
-# 
+# plugin for wordpress to generate child theme files
 
 # [Estimated Hours]
 
