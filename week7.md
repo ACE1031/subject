@@ -21,4 +21,4 @@
 
 # [Career/Employability/Learning Insights]
 
-# by having a stand up meeting every week, it helps ensure people are on the right track and it is good practrise to get in as most industries use this. at my work currently in sales we have a 15min moring meeting disucssing key points of the day and debrief meeting at the end of the day to debrief and discuss any positives and or negatives of the day.
+# by having a stand up meeting every week, it helps ensure people are on the right track and it is good practrise to get in as most industries use this. at my work currently in sales we have a 15min morning meeting disucssing key points of the day and debrief meeting at the end of the day to debrief and discuss any positives and or negatives of the day.
